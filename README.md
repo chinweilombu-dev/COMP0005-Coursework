@@ -9,3 +9,6 @@ Group 27 Coursework Repository
   * Armaan - implement LLRB BST
   * Araz - implement the generate data finction
 * Assigned a time to meet: Tuesday 24th March: 11am
+
+### 24/03/2026
+* Brainstorming Experimental Data: https://docs.google.com/document/d/1kUbXbjBxVmUiQSeQbzwwn0HExrrHML96AEj5ZomOVG0/edit?usp=sharing
