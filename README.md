@@ -26,3 +26,6 @@ Group 27 Coursework Repository
         - Visualise result for each graph: 2 PLOTS, 3 Lines for each plot, Each line corresponds to a different distribution of data set (sorted, reverse, random)
         - Use style: 'seaborn-v0_8' `plt.style.use('seaborn-v0_8')`
  * Assigned a time to meet Friday 27th March: 1pm
+
+* Report: https://docs.google.com/document/d/1OpXRrxBzJBkhVszGPTZ8pw4qZ_p5g187PQvWVmMH4gE/edit?usp=sharing
+  
